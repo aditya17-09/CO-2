@@ -8,16 +8,19 @@ The dataset used in this analysis is the "Fuel Consumption Ratings" dataset prov
 
 Files:
 
-CO2 Emission Simple Multivariate Linear Regression.ipynb: Jupyter notebook containing the code for performing simple multivariate linear regression on the CO2 emission data.
-CO2 Emission Simple Univariate Linear Regression.ipynb: Jupyter notebook containing the code for performing simple univariate linear regression on the CO2 emission data.
-FuelConsumption.csv: CSV file containing the dataset used in this analysis.
+-->CO2 Emission Simple Multivariate Linear Regression.ipynb: Jupyter notebook containing the code for performing simple multivariate linear regression on the CO2 emission data.
+
+-->CO2 Emission Simple Univariate Linear Regression.ipynb: Jupyter notebook containing the code for performing simple univariate linear regression on the CO2 emission data.
+
+-->FuelConsumption.csv: CSV file containing the dataset used in this analysis.
 
 Dependencies:
+
 This analysis was performed using Python 3. The following Python libraries are required to run the code:
 
-numpy
-pandas
-matplotlib
+numpy,
+pandas,
+matplotlib,
 scikit-learn
 
 Usage:
